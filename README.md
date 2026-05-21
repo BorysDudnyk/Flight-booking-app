@@ -42,13 +42,13 @@ Interactive web application for selecting airplane seats and entering passenger 
 
 ## Screenshots
 
-### PassengerCount
+### Passenger Count
 ![Passenger Count](Screenshot/PassengerCount.png)
 
-### PassengerDetails
+### Passenger Details
 ![Passenger Details](Screenshot/PassengerDetails.png)
 
-### SeatSelection
+### Seat Selection
 ![Seat Selection](Screenshot/SeatSelection.png)
 
 ## What I Learned
